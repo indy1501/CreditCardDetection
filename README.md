@@ -1,4 +1,4 @@
-# Credit Card Detection
+# Credit Card Problem
 The Credit Card Problem involves reading credit card records from csv, xml and json files. 
 These records are then validated and post processing they are written to the provided output file of chosen format.
 
